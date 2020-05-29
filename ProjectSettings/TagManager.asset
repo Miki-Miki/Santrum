@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - cpMaster
+  - DeathBed
+  - CameraShaker
+  - Timer
+  - TimeMaster
+  - LevelReset
+  - MainCameraParent
+  - CameraController
+  - LevelBlockade
+  - GameOverScreen
+  - Projectile
+  - YOUWON
+  - AudioManager
+  - musicSlider
+  - VolumeMaster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground SLayer
+    uniqueID: 3589240027
+    locked: 0
+  - name: Player
+    uniqueID: 1568384545
+    locked: 0

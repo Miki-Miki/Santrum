@@ -1,0 +1,4306 @@
+fileFormatVersion: 2
+guid: 2f5841f20bb795a438bcaa7a7ae92d33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 339381560699383762
+    second: 0x72_16x16RobotTileset.v1_0
+  - first:
+      213: -4232114495167474450
+    second: 0x72_16x16RobotTileset.v1_1
+  - first:
+      213: 3764861814518824018
+    second: 0x72_16x16RobotTileset.v1_2
+  - first:
+      213: -1064573184158255714
+    second: 0x72_16x16RobotTileset.v1_3
+  - first:
+      213: -6187047646761085328
+    second: 0x72_16x16RobotTileset.v1_4
+  - first:
+      213: 8366901845658169295
+    second: 0x72_16x16RobotTileset.v1_5
+  - first:
+      213: 7867257503539245955
+    second: 0x72_16x16RobotTileset.v1_6
+  - first:
+      213: 4995572825518487665
+    second: 0x72_16x16RobotTileset.v1_7
+  - first:
+      213: 6751210860692363679
+    second: 0x72_16x16RobotTileset.v1_8
+  - first:
+      213: 4150479889582558024
+    second: 0x72_16x16RobotTileset.v1_9
+  - first:
+      213: -7606890087617393647
+    second: 0x72_16x16RobotTileset.v1_10
+  - first:
+      213: -7557942460683854829
+    second: 0x72_16x16RobotTileset.v1_11
+  - first:
+      213: -240944079601348731
+    second: 0x72_16x16RobotTileset.v1_12
+  - first:
+      213: -379739839765990595
+    second: 0x72_16x16RobotTileset.v1_13
+  - first:
+      213: 6758342388097097948
+    second: 0x72_16x16RobotTileset.v1_14
+  - first:
+      213: 8571133496739825232
+    second: 0x72_16x16RobotTileset.v1_15
+  - first:
+      213: 2218003846414539420
+    second: 0x72_16x16RobotTileset.v1_16
+  - first:
+      213: -3525376360277629407
+    second: 0x72_16x16RobotTileset.v1_17
+  - first:
+      213: -6299684263088568729
+    second: 0x72_16x16RobotTileset.v1_18
+  - first:
+      213: 3864940940022859158
+    second: 0x72_16x16RobotTileset.v1_19
+  - first:
+      213: -1520197331276974655
+    second: 0x72_16x16RobotTileset.v1_20
+  - first:
+      213: 2683871473611574719
+    second: 0x72_16x16RobotTileset.v1_21
+  - first:
+      213: -3853509958882305806
+    second: 0x72_16x16RobotTileset.v1_22
+  - first:
+      213: -4360383156153209978
+    second: 0x72_16x16RobotTileset.v1_23
+  - first:
+      213: -1871505568319957908
+    second: 0x72_16x16RobotTileset.v1_24
+  - first:
+      213: 3619512368204760916
+    second: 0x72_16x16RobotTileset.v1_25
+  - first:
+      213: -8564291932843786477
+    second: 0x72_16x16RobotTileset.v1_26
+  - first:
+      213: 6521352886324273360
+    second: 0x72_16x16RobotTileset.v1_27
+  - first:
+      213: -3296316573594612274
+    second: 0x72_16x16RobotTileset.v1_28
+  - first:
+      213: 5252112849069306430
+    second: 0x72_16x16RobotTileset.v1_29
+  - first:
+      213: 4233786374988160511
+    second: 0x72_16x16RobotTileset.v1_30
+  - first:
+      213: -5341772906071946747
+    second: 0x72_16x16RobotTileset.v1_31
+  - first:
+      213: 2562585089716969490
+    second: 0x72_16x16RobotTileset.v1_32
+  - first:
+      213: -8400924909136593660
+    second: 0x72_16x16RobotTileset.v1_33
+  - first:
+      213: -6167215897579639722
+    second: 0x72_16x16RobotTileset.v1_34
+  - first:
+      213: 2185664719737156189
+    second: 0x72_16x16RobotTileset.v1_35
+  - first:
+      213: 3008214310335392306
+    second: 0x72_16x16RobotTileset.v1_36
+  - first:
+      213: -9100162880845128587
+    second: 0x72_16x16RobotTileset.v1_37
+  - first:
+      213: -440622672909111615
+    second: 0x72_16x16RobotTileset.v1_38
+  - first:
+      213: 5879069673241755994
+    second: 0x72_16x16RobotTileset.v1_39
+  - first:
+      213: -7505037353496038381
+    second: 0x72_16x16RobotTileset.v1_40
+  - first:
+      213: 87678774264431159
+    second: 0x72_16x16RobotTileset.v1_41
+  - first:
+      213: -3900723056118035696
+    second: 0x72_16x16RobotTileset.v1_42
+  - first:
+      213: 1806342033438182453
+    second: 0x72_16x16RobotTileset.v1_43
+  - first:
+      213: -4454054144257185496
+    second: 0x72_16x16RobotTileset.v1_44
+  - first:
+      213: -2716034798716419574
+    second: 0x72_16x16RobotTileset.v1_45
+  - first:
+      213: 1975711610056749781
+    second: 0x72_16x16RobotTileset.v1_46
+  - first:
+      213: 5518786833684579603
+    second: 0x72_16x16RobotTileset.v1_47
+  - first:
+      213: -336313469007615381
+    second: 0x72_16x16RobotTileset.v1_48
+  - first:
+      213: -4802856676241616795
+    second: 0x72_16x16RobotTileset.v1_49
+  - first:
+      213: 145295662708090567
+    second: 0x72_16x16RobotTileset.v1_50
+  - first:
+      213: 6810428197233965396
+    second: 0x72_16x16RobotTileset.v1_51
+  - first:
+      213: -5872070459740661661
+    second: 0x72_16x16RobotTileset.v1_52
+  - first:
+      213: -350376187329897217
+    second: 0x72_16x16RobotTileset.v1_53
+  - first:
+      213: -6838373727888975588
+    second: 0x72_16x16RobotTileset.v1_54
+  - first:
+      213: -700762364543304533
+    second: 0x72_16x16RobotTileset.v1_55
+  - first:
+      213: 6905473625507431397
+    second: 0x72_16x16RobotTileset.v1_56
+  - first:
+      213: -5413474029430745988
+    second: 0x72_16x16RobotTileset.v1_57
+  - first:
+      213: 4171698636675045561
+    second: 0x72_16x16RobotTileset.v1_58
+  - first:
+      213: 7518424939993830594
+    second: 0x72_16x16RobotTileset.v1_59
+  - first:
+      213: 248369067748764470
+    second: 0x72_16x16RobotTileset.v1_60
+  - first:
+      213: 4594825403898263629
+    second: 0x72_16x16RobotTileset.v1_61
+  - first:
+      213: 152693236279933253
+    second: 0x72_16x16RobotTileset.v1_62
+  - first:
+      213: -4655917542607062222
+    second: 0x72_16x16RobotTileset.v1_63
+  - first:
+      213: 5833876125322293364
+    second: 0x72_16x16RobotTileset.v1_64
+  - first:
+      213: 380832182679814692
+    second: 0x72_16x16RobotTileset.v1_65
+  - first:
+      213: 3986378870561209509
+    second: 0x72_16x16RobotTileset.v1_66
+  - first:
+      213: 4330022377424012747
+    second: 0x72_16x16RobotTileset.v1_67
+  - first:
+      213: 3438789893772371782
+    second: 0x72_16x16RobotTileset.v1_68
+  - first:
+      213: 1511440714382319699
+    second: 0x72_16x16RobotTileset.v1_69
+  - first:
+      213: -5412021672911812991
+    second: 0x72_16x16RobotTileset.v1_70
+  - first:
+      213: -7774654135591894240
+    second: 0x72_16x16RobotTileset.v1_71
+  - first:
+      213: -7100435672180211920
+    second: 0x72_16x16RobotTileset.v1_72
+  - first:
+      213: -8348752286294941357
+    second: 0x72_16x16RobotTileset.v1_73
+  - first:
+      213: -960255052701142584
+    second: 0x72_16x16RobotTileset.v1_74
+  - first:
+      213: 4518836607643613215
+    second: 0x72_16x16RobotTileset.v1_75
+  - first:
+      213: 8559791494904212237
+    second: 0x72_16x16RobotTileset.v1_76
+  - first:
+      213: -2366790409808320279
+    second: 0x72_16x16RobotTileset.v1_77
+  - first:
+      213: -1051445744474157289
+    second: 0x72_16x16RobotTileset.v1_78
+  - first:
+      213: 3197201509061584903
+    second: 0x72_16x16RobotTileset.v1_79
+  - first:
+      213: 1158735288771233333
+    second: 0x72_16x16RobotTileset.v1_80
+  - first:
+      213: 2315882408959056465
+    second: 0x72_16x16RobotTileset.v1_81
+  - first:
+      213: 7293462971899695610
+    second: 0x72_16x16RobotTileset.v1_82
+  - first:
+      213: -7381143200121159096
+    second: 0x72_16x16RobotTileset.v1_83
+  - first:
+      213: 4521016222311609144
+    second: 0x72_16x16RobotTileset.v1_84
+  - first:
+      213: -4720794619955991899
+    second: 0x72_16x16RobotTileset.v1_85
+  - first:
+      213: -2104544224828859870
+    second: 0x72_16x16RobotTileset.v1_86
+  - first:
+      213: 5795132977887937649
+    second: 0x72_16x16RobotTileset.v1_87
+  - first:
+      213: -3859330462042674116
+    second: 0x72_16x16RobotTileset.v1_88
+  - first:
+      213: -8103461056629815127
+    second: 0x72_16x16RobotTileset.v1_89
+  - first:
+      213: 2738741783761638909
+    second: 0x72_16x16RobotTileset.v1_90
+  - first:
+      213: -7353934964051856850
+    second: 0x72_16x16RobotTileset.v1_91
+  - first:
+      213: 8697389178650900988
+    second: 0x72_16x16RobotTileset.v1_92
+  - first:
+      213: 5688077069267081639
+    second: 0x72_16x16RobotTileset.v1_93
+  - first:
+      213: 44532078224246154
+    second: 0x72_16x16RobotTileset.v1_94
+  - first:
+      213: -87593016103552196
+    second: 0x72_16x16RobotTileset.v1_95
+  - first:
+      213: -37825616631804012
+    second: 0x72_16x16RobotTileset.v1_96
+  - first:
+      213: 7779096261075751558
+    second: 0x72_16x16RobotTileset.v1_97
+  - first:
+      213: -921012174112551848
+    second: 0x72_16x16RobotTileset.v1_98
+  - first:
+      213: 7970533879419818494
+    second: 0x72_16x16RobotTileset.v1_99
+  - first:
+      213: 3832334237477635562
+    second: 0x72_16x16RobotTileset.v1_100
+  - first:
+      213: 3847597992854907258
+    second: 0x72_16x16RobotTileset.v1_101
+  - first:
+      213: 3733312260526200193
+    second: 0x72_16x16RobotTileset.v1_102
+  - first:
+      213: 5139021709583539049
+    second: 0x72_16x16RobotTileset.v1_103
+  - first:
+      213: -428483728640740549
+    second: 0x72_16x16RobotTileset.v1_104
+  - first:
+      213: 1501262387238504165
+    second: 0x72_16x16RobotTileset.v1_105
+  - first:
+      213: 470001492093718192
+    second: 0x72_16x16RobotTileset.v1_106
+  - first:
+      213: -6000132213061119085
+    second: 0x72_16x16RobotTileset.v1_107
+  - first:
+      213: 719007803414488666
+    second: 0x72_16x16RobotTileset.v1_108
+  - first:
+      213: 731806926177188193
+    second: 0x72_16x16RobotTileset.v1_109
+  - first:
+      213: -3710802381871375474
+    second: 0x72_16x16RobotTileset.v1_110
+  - first:
+      213: 1634523261030327411
+    second: 0x72_16x16RobotTileset.v1_111
+  - first:
+      213: -8373896013760920218
+    second: 0x72_16x16RobotTileset.v1_112
+  - first:
+      213: -1658334050656059157
+    second: 0x72_16x16RobotTileset.v1_113
+  - first:
+      213: -2060920605955887592
+    second: 0x72_16x16RobotTileset.v1_114
+  - first:
+      213: 2374407549197721074
+    second: 0x72_16x16RobotTileset.v1_115
+  - first:
+      213: 1873936317591186890
+    second: 0x72_16x16RobotTileset.v1_116
+  - first:
+      213: 5028116035518041450
+    second: 0x72_16x16RobotTileset.v1_117
+  - first:
+      213: -3347582767364198613
+    second: 0x72_16x16RobotTileset.v1_118
+  - first:
+      213: 2951349151228701462
+    second: 0x72_16x16RobotTileset.v1_119
+  - first:
+      213: -7572911214284223583
+    second: 0x72_16x16RobotTileset.v1_120
+  - first:
+      213: 2742946881085839542
+    second: 0x72_16x16RobotTileset.v1_121
+  - first:
+      213: 4843193399674546085
+    second: 0x72_16x16RobotTileset.v1_122
+  - first:
+      213: 3151338710350938727
+    second: 0x72_16x16RobotTileset.v1_123
+  - first:
+      213: 4653995464322193830
+    second: 0x72_16x16RobotTileset.v1_124
+  - first:
+      213: -8691558068445669368
+    second: 0x72_16x16RobotTileset.v1_125
+  - first:
+      213: 4270157205003187533
+    second: 0x72_16x16RobotTileset.v1_126
+  - first:
+      213: -3825078357188529635
+    second: 0x72_16x16RobotTileset.v1_127
+  - first:
+      213: 28057420458414347
+    second: 0x72_16x16RobotTileset.v1_128
+  - first:
+      213: -6869192486237022421
+    second: 0x72_16x16RobotTileset.v1_129
+  - first:
+      213: 626242853538272628
+    second: 0x72_16x16RobotTileset.v1_130
+  - first:
+      213: 7240821292467516451
+    second: 0x72_16x16RobotTileset.v1_131
+  - first:
+      213: 5563978719016531252
+    second: 0x72_16x16RobotTileset.v1_132
+  - first:
+      213: -7996864638100286306
+    second: 0x72_16x16RobotTileset.v1_133
+  - first:
+      213: -5129761771053834913
+    second: 0x72_16x16RobotTileset.v1_134
+  - first:
+      213: 8560970412556938397
+    second: 0x72_16x16RobotTileset.v1_135
+  - first:
+      213: -1270045478543845148
+    second: 0x72_16x16RobotTileset.v1_136
+  - first:
+      213: 5740143074544132757
+    second: 0x72_16x16RobotTileset.v1_137
+  - first:
+      213: 5847643677756352991
+    second: 0x72_16x16RobotTileset.v1_138
+  - first:
+      213: -2122691718020465238
+    second: 0x72_16x16RobotTileset.v1_139
+  - first:
+      213: -6654053781939836069
+    second: 0x72_16x16RobotTileset.v1_140
+  - first:
+      213: -5959179318773367873
+    second: 0x72_16x16RobotTileset.v1_141
+  - first:
+      213: 7681331201003425064
+    second: 0x72_16x16RobotTileset.v1_142
+  - first:
+      213: -2461230771990780263
+    second: 0x72_16x16RobotTileset.v1_143
+  - first:
+      213: -5692151283660047582
+    second: 0x72_16x16RobotTileset.v1_144
+  - first:
+      213: -6230608192046553198
+    second: 0x72_16x16RobotTileset.v1_145
+  - first:
+      213: 4304891412199322391
+    second: 0x72_16x16RobotTileset.v1_146
+  - first:
+      213: -9081497316483225204
+    second: 0x72_16x16RobotTileset.v1_147
+  - first:
+      213: 8039471438302617177
+    second: 0x72_16x16RobotTileset.v1_148
+  - first:
+      213: -4695539950509235715
+    second: 0x72_16x16RobotTileset.v1_149
+  - first:
+      213: -5613859465484810572
+    second: 0x72_16x16RobotTileset.v1_150
+  - first:
+      213: -1813733391174855008
+    second: 0x72_16x16RobotTileset.v1_151
+  - first:
+      213: 4314465871897948474
+    second: 0x72_16x16RobotTileset.v1_152
+  - first:
+      213: -6614826095825998030
+    second: 0x72_16x16RobotTileset.v1_153
+  - first:
+      213: -4332496430784321870
+    second: 0x72_16x16RobotTileset.v1_154
+  - first:
+      213: -7279077801404737362
+    second: 0x72_16x16RobotTileset.v1_155
+  - first:
+      213: 8048814113878104992
+    second: 0x72_16x16RobotTileset.v1_156
+  - first:
+      213: 6550679666577348812
+    second: 0x72_16x16RobotTileset.v1_157
+  - first:
+      213: -2462330923887342265
+    second: 0x72_16x16RobotTileset.v1_158
+  - first:
+      213: -5901185968132938857
+    second: 0x72_16x16RobotTileset.v1_159
+  - first:
+      213: 5830621225625079863
+    second: 0x72_16x16RobotTileset.v1_160
+  - first:
+      213: -6125205059195419421
+    second: 0x72_16x16RobotTileset.v1_161
+  - first:
+      213: -4636928189289586758
+    second: 0x72_16x16RobotTileset.v1_162
+  - first:
+      213: -4855985180144077024
+    second: 0x72_16x16RobotTileset.v1_163
+  - first:
+      213: 4267559125302215866
+    second: 0x72_16x16RobotTileset.v1_164
+  - first:
+      213: -8579795823850089370
+    second: 0x72_16x16RobotTileset.v1_165
+  - first:
+      213: -3394392991323526495
+    second: 0x72_16x16RobotTileset.v1_166
+  - first:
+      213: -3141912349346741515
+    second: 0x72_16x16RobotTileset.v1_167
+  - first:
+      213: 1398764433963265355
+    second: 0x72_16x16RobotTileset.v1_168
+  - first:
+      213: 523920506404681781
+    second: 0x72_16x16RobotTileset.v1_169
+  - first:
+      213: 8904012147333055620
+    second: 0x72_16x16RobotTileset.v1_170
+  - first:
+      213: 5381426395314723978
+    second: 0x72_16x16RobotTileset.v1_171
+  - first:
+      213: -3730611687497966504
+    second: 0x72_16x16RobotTileset.v1_172
+  - first:
+      213: -1109177683970474789
+    second: 0x72_16x16RobotTileset.v1_173
+  - first:
+      213: 7262178207541077490
+    second: 0x72_16x16RobotTileset.v1_174
+  - first:
+      213: 8712534302704341899
+    second: 0x72_16x16RobotTileset.v1_175
+  - first:
+      213: 5984606817973071975
+    second: 0x72_16x16RobotTileset.v1_176
+  - first:
+      213: 2101906615618933978
+    second: 0x72_16x16RobotTileset.v1_177
+  - first:
+      213: -2128003050521756394
+    second: 0x72_16x16RobotTileset.v1_178
+  - first:
+      213: 8022033410616478934
+    second: 0x72_16x16RobotTileset.v1_179
+  - first:
+      213: 9016323454569934981
+    second: 0x72_16x16RobotTileset.v1_180
+  - first:
+      213: 749921060273195358
+    second: 0x72_16x16RobotTileset.v1_181
+  - first:
+      213: 7481035546945835034
+    second: 0x72_16x16RobotTileset.v1_182
+  - first:
+      213: -3664395598152274117
+    second: 0x72_16x16RobotTileset.v1_183
+  - first:
+      213: 9193766886193920276
+    second: 0x72_16x16RobotTileset.v1_184
+  - first:
+      213: -5671581861504453152
+    second: 0x72_16x16RobotTileset.v1_185
+  - first:
+      213: 2545638854805761908
+    second: 0x72_16x16RobotTileset.v1_186
+  - first:
+      213: -2733792403004030470
+    second: 0x72_16x16RobotTileset.v1_187
+  - first:
+      213: -4590572328022847470
+    second: 0x72_16x16RobotTileset.v1_188
+  - first:
+      213: -8044949322571575037
+    second: 0x72_16x16RobotTileset.v1_189
+  - first:
+      213: 101824981659159096
+    second: 0x72_16x16RobotTileset.v1_190
+  - first:
+      213: -1898841999900587243
+    second: 0x72_16x16RobotTileset.v1_191
+  - first:
+      213: 8292126770259864539
+    second: 0x72_16x16RobotTileset.v1_192
+  - first:
+      213: 7568642688264314947
+    second: 0x72_16x16RobotTileset.v1_193
+  - first:
+      213: -7910887984333365335
+    second: 0x72_16x16RobotTileset.v1_194
+  - first:
+      213: -7087449454610507384
+    second: 0x72_16x16RobotTileset.v1_195
+  - first:
+      213: 6897858955706541966
+    second: 0x72_16x16RobotTileset.v1_196
+  - first:
+      213: -4296966061803130106
+    second: 0x72_16x16RobotTileset.v1_197
+  - first:
+      213: -1859534417275128443
+    second: 0x72_16x16RobotTileset.v1_198
+  - first:
+      213: 2097287779933680649
+    second: 0x72_16x16RobotTileset.v1_199
+  - first:
+      213: -3172944040555682826
+    second: 0x72_16x16RobotTileset.v1_200
+  - first:
+      213: -4848599156165597631
+    second: 0x72_16x16RobotTileset.v1_201
+  - first:
+      213: -5638367461986336750
+    second: 0x72_16x16RobotTileset.v1_202
+  - first:
+      213: -7886603255504383299
+    second: 0x72_16x16RobotTileset.v1_203
+  - first:
+      213: 7976914576387637652
+    second: 0x72_16x16RobotTileset.v1_204
+  - first:
+      213: 7182980681987266016
+    second: 0x72_16x16RobotTileset.v1_205
+  - first:
+      213: -722612172178022889
+    second: 0x72_16x16RobotTileset.v1_206
+  - first:
+      213: 4603623739927315544
+    second: 0x72_16x16RobotTileset.v1_207
+  - first:
+      213: -7327538269939908965
+    second: 0x72_16x16RobotTileset.v1_208
+  - first:
+      213: -4334300473270619351
+    second: 0x72_16x16RobotTileset.v1_209
+  - first:
+      213: 3679310381027921339
+    second: 0x72_16x16RobotTileset.v1_210
+  - first:
+      213: -7605876739295258930
+    second: 0x72_16x16RobotTileset.v1_211
+  - first:
+      213: 1756211736916741817
+    second: 0x72_16x16RobotTileset.v1_212
+  - first:
+      213: 1463147625367161147
+    second: 0x72_16x16RobotTileset.v1_213
+  - first:
+      213: 2756573599170973905
+    second: 0x72_16x16RobotTileset.v1_214
+  - first:
+      213: 712139217138954261
+    second: 0x72_16x16RobotTileset.v1_215
+  - first:
+      213: -7914087410014275512
+    second: 0x72_16x16RobotTileset.v1_216
+  - first:
+      213: -8205699426250115619
+    second: 0x72_16x16RobotTileset.v1_217
+  - first:
+      213: -4308938029403488964
+    second: 0x72_16x16RobotTileset.v1_218
+  - first:
+      213: -4952711695145728933
+    second: 0x72_16x16RobotTileset.v1_219
+  - first:
+      213: 7563233726356813313
+    second: 0x72_16x16RobotTileset.v1_220
+  - first:
+      213: -2425049378063299736
+    second: 0x72_16x16RobotTileset.v1_221
+  - first:
+      213: -320810193069371603
+    second: 0x72_16x16RobotTileset.v1_222
+  - first:
+      213: -514051751962681689
+    second: 0x72_16x16RobotTileset.v1_223
+  - first:
+      213: 6109366424543303166
+    second: 0x72_16x16RobotTileset.v1_224
+  - first:
+      213: 6632951197606418086
+    second: 0x72_16x16RobotTileset.v1_225
+  - first:
+      213: -909366783741445378
+    second: 0x72_16x16RobotTileset.v1_226
+  - first:
+      213: 7966632313254566697
+    second: 0x72_16x16RobotTileset.v1_227
+  - first:
+      213: 5205062299646911576
+    second: 0x72_16x16RobotTileset.v1_228
+  - first:
+      213: -6703561418617293235
+    second: 0x72_16x16RobotTileset.v1_229
+  - first:
+      213: 469640648038380561
+    second: 0x72_16x16RobotTileset.v1_230
+  - first:
+      213: -4351792406041563897
+    second: 0x72_16x16RobotTileset.v1_231
+  - first:
+      213: 5623828382208376069
+    second: 0x72_16x16RobotTileset.v1_232
+  - first:
+      213: 8569174277295578318
+    second: 0x72_16x16RobotTileset.v1_233
+  - first:
+      213: -2932504063245485472
+    second: 0x72_16x16RobotTileset.v1_234
+  - first:
+      213: 6734708353515615642
+    second: 0x72_16x16RobotTileset.v1_235
+  - first:
+      213: 6927874843471302822
+    second: 0x72_16x16RobotTileset.v1_236
+  - first:
+      213: -7970826799296043656
+    second: 0x72_16x16RobotTileset.v1_237
+  - first:
+      213: 724703382400953543
+    second: 0x72_16x16RobotTileset.v1_238
+  - first:
+      213: -7980081975674759850
+    second: 0x72_16x16RobotTileset.v1_239
+  - first:
+      213: -1095160199447149910
+    second: 0x72_16x16RobotTileset.v1_240
+  - first:
+      213: 6466117862063219150
+    second: 0x72_16x16RobotTileset.v1_241
+  - first:
+      213: -906637866012474224
+    second: 0x72_16x16RobotTileset.v1_242
+  - first:
+      213: -7291417535916709894
+    second: 0x72_16x16RobotTileset.v1_243
+  - first:
+      213: 2342710909917132617
+    second: 0x72_16x16RobotTileset.v1_244
+  - first:
+      213: -6080314917239687517
+    second: 0x72_16x16RobotTileset.v1_245
+  - first:
+      213: 5482863888712630314
+    second: 0x72_16x16RobotTileset.v1_246
+  - first:
+      213: -3546679080218195852
+    second: 0x72_16x16RobotTileset.v1_247
+  - first:
+      213: 3680125445936458840
+    second: 0x72_16x16RobotTileset.v1_248
+  - first:
+      213: -8487578446935151324
+    second: 0x72_16x16RobotTileset.v1_249
+  - first:
+      213: -4860881437590594154
+    second: 0x72_16x16RobotTileset.v1_250
+  - first:
+      213: -1924601845307740837
+    second: 0x72_16x16RobotTileset.v1_251
+  - first:
+      213: 5899996534246743217
+    second: 0x72_16x16RobotTileset.v1_252
+  - first:
+      213: -6061979172409120795
+    second: 0x72_16x16RobotTileset.v1_253
+  - first:
+      213: 4280510785474917083
+    second: 0x72_16x16RobotTileset.v1_254
+  - first:
+      213: 8852385583919395728
+    second: 0x72_16x16RobotTileset.v1_255
+  - first:
+      213: 6954035721005110911
+    second: 0x72_16x16RobotTileset.v1_256
+  - first:
+      213: 5891132031665659175
+    second: 0x72_16x16RobotTileset.v1_257
+  - first:
+      213: 486373069016602863
+    second: 0x72_16x16RobotTileset.v1_258
+  - first:
+      213: -5855406264224783744
+    second: 0x72_16x16RobotTileset.v1_259
+  - first:
+      213: -3129346989098396389
+    second: 0x72_16x16RobotTileset.v1_260
+  - first:
+      213: 7291034859476928783
+    second: 0x72_16x16RobotTileset.v1_261
+  - first:
+      213: 7648648401315360661
+    second: 0x72_16x16RobotTileset.v1_262
+  - first:
+      213: -277419624986108372
+    second: 0x72_16x16RobotTileset.v1_263
+  - first:
+      213: 2536503498082398352
+    second: 0x72_16x16RobotTileset.v1_264
+  - first:
+      213: -2732859846377653347
+    second: 0x72_16x16RobotTileset.v1_265
+  - first:
+      213: 453195709258980087
+    second: 0x72_16x16RobotTileset.v1_266
+  - first:
+      213: -5496405727386920259
+    second: 0x72_16x16RobotTileset.v1_267
+  - first:
+      213: -4275597444697587732
+    second: 0x72_16x16RobotTileset.v1_268
+  - first:
+      213: 8484977164761325369
+    second: 0x72_16x16RobotTileset.v1_269
+  - first:
+      213: -4554752389694719862
+    second: 0x72_16x16RobotTileset.v1_270
+  - first:
+      213: 5559135556398015501
+    second: 0x72_16x16RobotTileset.v1_271
+  - first:
+      213: 5587786034082695346
+    second: 0x72_16x16RobotTileset.v1_272
+  - first:
+      213: -5880524144902674549
+    second: 0x72_16x16RobotTileset.v1_273
+  - first:
+      213: 5146112422704571967
+    second: 0x72_16x16RobotTileset.v1_274
+  - first:
+      213: 3424076907326501164
+    second: 0x72_16x16RobotTileset.v1_275
+  - first:
+      213: 3348499453678355838
+    second: 0x72_16x16RobotTileset.v1_276
+  - first:
+      213: -6794104368023608797
+    second: 0x72_16x16RobotTileset.v1_277
+  - first:
+      213: -2222554071151443698
+    second: 0x72_16x16RobotTileset.v1_278
+  - first:
+      213: 6331938334260977646
+    second: 0x72_16x16RobotTileset.v1_279
+  - first:
+      213: 1134845007447907467
+    second: 0x72_16x16RobotTileset.v1_280
+  - first:
+      213: -751043202108832322
+    second: 0x72_16x16RobotTileset.v1_281
+  - first:
+      213: 1403455737333664224
+    second: 0x72_16x16RobotTileset.v1_282
+  - first:
+      213: 5713315604370906095
+    second: 0x72_16x16RobotTileset.v1_283
+  - first:
+      213: -342937412793972106
+    second: 0x72_16x16RobotTileset.v1_284
+  - first:
+      213: -5186715319386760520
+    second: 0x72_16x16RobotTileset.v1_285
+  - first:
+      213: 7649180859083556028
+    second: 0x72_16x16RobotTileset.v1_286
+  - first:
+      213: -7723878934582863975
+    second: 0x72_16x16RobotTileset.v1_287
+  - first:
+      213: 5844716404815299469
+    second: 0x72_16x16RobotTileset.v1_288
+  - first:
+      213: -1805566089831790840
+    second: 0x72_16x16RobotTileset.v1_289
+  - first:
+      213: 6816695242696500860
+    second: 0x72_16x16RobotTileset.v1_290
+  - first:
+      213: -6495486930313336891
+    second: 0x72_16x16RobotTileset.v1_291
+  - first:
+      213: 2860207733487404844
+    second: 0x72_16x16RobotTileset.v1_292
+  - first:
+      213: -4983186907543931744
+    second: 0x72_16x16RobotTileset.v1_293
+  - first:
+      213: -5924988823288226892
+    second: 0x72_16x16RobotTileset.v1_294
+  - first:
+      213: 1033662706341618996
+    second: 0x72_16x16RobotTileset.v1_295
+  - first:
+      213: 8151007962080323060
+    second: 0x72_16x16RobotTileset.v1_296
+  - first:
+      213: -883593174021390575
+    second: 0x72_16x16RobotTileset.v1_297
+  - first:
+      213: -2990205933414275811
+    second: 0x72_16x16RobotTileset.v1_298
+  - first:
+      213: 6484271756832462788
+    second: 0x72_16x16RobotTileset.v1_299
+  - first:
+      213: -3075882841739479903
+    second: 0x72_16x16RobotTileset.v1_300
+  - first:
+      213: -7572904515635371057
+    second: 0x72_16x16RobotTileset.v1_301
+  - first:
+      213: 6673597802787251737
+    second: 0x72_16x16RobotTileset.v1_302
+  - first:
+      213: 5425738136618918681
+    second: 0x72_16x16RobotTileset.v1_303
+  - first:
+      213: -6596867361717858999
+    second: 0x72_16x16RobotTileset.v1_304
+  - first:
+      213: -4106734149997918670
+    second: 0x72_16x16RobotTileset.v1_305
+  - first:
+      213: 37055626584442134
+    second: 0x72_16x16RobotTileset.v1_306
+  - first:
+      213: -3711847975520387463
+    second: 0x72_16x16RobotTileset.v1_307
+  - first:
+      213: -2381136932320517765
+    second: 0x72_16x16RobotTileset.v1_308
+  - first:
+      213: -5672260975246441992
+    second: 0x72_16x16RobotTileset.v1_309
+  - first:
+      213: -3301997807146267183
+    second: 0x72_16x16RobotTileset.v1_310
+  - first:
+      213: 1258285433916285849
+    second: 0x72_16x16RobotTileset.v1_311
+  - first:
+      213: 77234940102318946
+    second: 0x72_16x16RobotTileset.v1_312
+  - first:
+      213: 3985433763855610556
+    second: 0x72_16x16RobotTileset.v1_313
+  - first:
+      213: 8164422424224382689
+    second: 0x72_16x16RobotTileset.v1_314
+  - first:
+      213: -2943426304612610134
+    second: 0x72_16x16RobotTileset.v1_315
+  - first:
+      213: -4307343650534806942
+    second: 0x72_16x16RobotTileset.v1_316
+  - first:
+      213: 5298225762811535537
+    second: 0x72_16x16RobotTileset.v1_317
+  - first:
+      213: -1990632756588757029
+    second: 0x72_16x16RobotTileset.v1_318
+  - first:
+      213: 1439348107064645095
+    second: 0x72_16x16RobotTileset.v1_319
+  - first:
+      213: -3758230471097221836
+    second: 0x72_16x16RobotTileset.v1_320
+  - first:
+      213: -5882537781911778483
+    second: 0x72_16x16RobotTileset.v1_321
+  - first:
+      213: 7835151591145773238
+    second: 0x72_16x16RobotTileset.v1_322
+  - first:
+      213: -27930668974409233
+    second: 0x72_16x16RobotTileset.v1_323
+  - first:
+      213: -3186130362990300661
+    second: 0x72_16x16RobotTileset.v1_324
+  - first:
+      213: -6384866453299324431
+    second: 0x72_16x16RobotTileset.v1_325
+  - first:
+      213: 5910230442504119139
+    second: 0x72_16x16RobotTileset.v1_326
+  - first:
+      213: 6327145238464077153
+    second: 0x72_16x16RobotTileset.v1_327
+  - first:
+      213: 6188994737727581252
+    second: 0x72_16x16RobotTileset.v1_328
+  - first:
+      213: 5843642392071842420
+    second: 0x72_16x16RobotTileset.v1_329
+  - first:
+      213: -2783524734093938224
+    second: 0x72_16x16RobotTileset.v1_330
+  - first:
+      213: -6172146475946391645
+    second: 0x72_16x16RobotTileset.v1_331
+  - first:
+      213: -8936631722198174767
+    second: 0x72_16x16RobotTileset.v1_332
+  - first:
+      213: 2239220548615631158
+    second: 0x72_16x16RobotTileset.v1_333
+  - first:
+      213: 683370952309394949
+    second: 0x72_16x16RobotTileset.v1_334
+  - first:
+      213: -7117643256865964787
+    second: 0x72_16x16RobotTileset.v1_335
+  - first:
+      213: -5341328976072181153
+    second: 0x72_16x16RobotTileset.v1_336
+  - first:
+      213: -5453138477049737815
+    second: 0x72_16x16RobotTileset.v1_337
+  - first:
+      213: -2615387409745553693
+    second: 0x72_16x16RobotTileset.v1_338
+  - first:
+      213: 4865587736877590949
+    second: 0x72_16x16RobotTileset.v1_339
+  - first:
+      213: -7913693170043424448
+    second: 0x72_16x16RobotTileset.v1_340
+  - first:
+      213: 2160212729670519971
+    second: 0x72_16x16RobotTileset.v1_341
+  - first:
+      213: -7228501753508974107
+    second: 0x72_16x16RobotTileset.v1_342
+  - first:
+      213: 4426404813380943062
+    second: 0x72_16x16RobotTileset.v1_343
+  - first:
+      213: -5368375960642312122
+    second: 0x72_16x16RobotTileset.v1_344
+  - first:
+      213: 5834995017545735748
+    second: 0x72_16x16RobotTileset.v1_345
+  - first:
+      213: -636727153414530065
+    second: 0x72_16x16RobotTileset.v1_346
+  - first:
+      213: 6120604226570631880
+    second: 0x72_16x16RobotTileset.v1_347
+  - first:
+      213: -603225008149151416
+    second: 0x72_16x16RobotTileset.v1_348
+  - first:
+      213: 4033569928075773200
+    second: 0x72_16x16RobotTileset.v1_349
+  - first:
+      213: 6215176844439006321
+    second: 0x72_16x16RobotTileset.v1_350
+  - first:
+      213: -827957154939796109
+    second: 0x72_16x16RobotTileset.v1_351
+  - first:
+      213: -8590076808163232911
+    second: 0x72_16x16RobotTileset.v1_352
+  - first:
+      213: 4453132264937635230
+    second: 0x72_16x16RobotTileset.v1_353
+  - first:
+      213: -5636672569232549754
+    second: 0x72_16x16RobotTileset.v1_354
+  - first:
+      213: -8065299871466338301
+    second: 0x72_16x16RobotTileset.v1_355
+  - first:
+      213: -1489343728746827948
+    second: 0x72_16x16RobotTileset.v1_356
+  - first:
+      213: 1070281068047398815
+    second: 0x72_16x16RobotTileset.v1_357
+  - first:
+      213: -1163066041278477614
+    second: 0x72_16x16RobotTileset.v1_358
+  - first:
+      213: 2316366776045139512
+    second: 0x72_16x16RobotTileset.v1_359
+  - first:
+      213: 7641072588686484542
+    second: 0x72_16x16RobotTileset.v1_360
+  - first:
+      213: -9001581058736417529
+    second: 0x72_16x16RobotTileset.v1_361
+  - first:
+      213: 8095056488115970511
+    second: 0x72_16x16RobotTileset.v1_0
+  - first:
+      213: 8915955847775460751
+    second: 0x72_16x16RobotTileset.v1_1
+  - first:
+      213: -3476820621774334584
+    second: 0x72_16x16RobotTileset.v1_2
+  - first:
+      213: 4466513015953170974
+    second: 0x72_16x16RobotTileset.v1_3
+  - first:
+      213: 1912557439882995237
+    second: 0x72_16x16RobotTileset.v1_4
+  - first:
+      213: -440316696077037243
+    second: 0x72_16x16RobotTileset.v1_5
+  - first:
+      213: 2362964943863132543
+    second: 0x72_16x16RobotTileset.v1_6
+  - first:
+      213: 7813924891151481765
+    second: 0x72_16x16RobotTileset.v1_7
+  - first:
+      213: 3845021759362262704
+    second: 0x72_16x16RobotTileset.v1_8
+  - first:
+      213: -4266584574971115326
+    second: 0x72_16x16RobotTileset.v1_9
+  - first:
+      213: -723699805693593597
+    second: 0x72_16x16RobotTileset.v1_10
+  - first:
+      213: 558213964586817668
+    second: 0x72_16x16RobotTileset.v1_11
+  - first:
+      213: 5184318627841342228
+    second: 0x72_16x16RobotTileset.v1_12
+  - first:
+      213: 3240122058385921486
+    second: 0x72_16x16RobotTileset.v1_13
+  - first:
+      213: 2244298833970059471
+    second: 0x72_16x16RobotTileset.v1_14
+  - first:
+      213: -3956782775253524529
+    second: 0x72_16x16RobotTileset.v1_15
+  - first:
+      213: -3492468873742453785
+    second: 0x72_16x16RobotTileset.v1_16
+  - first:
+      213: -3526224926197216684
+    second: 0x72_16x16RobotTileset.v1_17
+  - first:
+      213: -2093325788739723610
+    second: 0x72_16x16RobotTileset.v1_18
+  - first:
+      213: 3469139320282928943
+    second: 0x72_16x16RobotTileset.v1_19
+  - first:
+      213: 348886408928531991
+    second: 0x72_16x16RobotTileset.v1_20
+  - first:
+      213: 3237880197009601536
+    second: 0x72_16x16RobotTileset.v1_21
+  - first:
+      213: 344880667499318148
+    second: 0x72_16x16RobotTileset.v1_22
+  - first:
+      213: -4836357992356546082
+    second: 0x72_16x16RobotTileset.v1_23
+  - first:
+      213: -1137205235781427299
+    second: 0x72_16x16RobotTileset.v1_24
+  - first:
+      213: -8098379326374962571
+    second: 0x72_16x16RobotTileset.v1_25
+  - first:
+      213: -5527913335321299591
+    second: 0x72_16x16RobotTileset.v1_26
+  - first:
+      213: -5447195714501200572
+    second: 0x72_16x16RobotTileset.v1_27
+  - first:
+      213: 2635203334548038174
+    second: 0x72_16x16RobotTileset.v1_28
+  - first:
+      213: 6356605234948472437
+    second: 0x72_16x16RobotTileset.v1_29
+  - first:
+      213: 1462577562769423801
+    second: 0x72_16x16RobotTileset.v1_30
+  - first:
+      213: 2715519760817870705
+    second: 0x72_16x16RobotTileset.v1_31
+  - first:
+      213: -8217286967790242829
+    second: 0x72_16x16RobotTileset.v1_32
+  - first:
+      213: 8272530616812251614
+    second: 0x72_16x16RobotTileset.v1_33
+  - first:
+      213: 477832255944649657
+    second: 0x72_16x16RobotTileset.v1_34
+  - first:
+      213: -6424254435745891959
+    second: 0x72_16x16RobotTileset.v1_35
+  - first:
+      213: 4887102523520171749
+    second: 0x72_16x16RobotTileset.v1_36
+  - first:
+      213: 1700105810546564819
+    second: 0x72_16x16RobotTileset.v1_37
+  - first:
+      213: -1689385413680588371
+    second: 0x72_16x16RobotTileset.v1_38
+  - first:
+      213: -1326694059637308858
+    second: 0x72_16x16RobotTileset.v1_39
+  - first:
+      213: -3220708124809304996
+    second: 0x72_16x16RobotTileset.v1_40
+  - first:
+      213: -6448280174456502528
+    second: 0x72_16x16RobotTileset.v1_41
+  - first:
+      213: -1127748088057674286
+    second: 0x72_16x16RobotTileset.v1_42
+  - first:
+      213: -4586893113528164803
+    second: 0x72_16x16RobotTileset.v1_43
+  - first:
+      213: -941087693269563059
+    second: 0x72_16x16RobotTileset.v1_44
+  - first:
+      213: -3323742224094333772
+    second: 0x72_16x16RobotTileset.v1_45
+  - first:
+      213: -4675460961798420214
+    second: 0x72_16x16RobotTileset.v1_46
+  - first:
+      213: 9015382686370092903
+    second: 0x72_16x16RobotTileset.v1_47
+  - first:
+      213: -682497396946364694
+    second: 0x72_16x16RobotTileset.v1_48
+  - first:
+      213: 8147046325869435655
+    second: 0x72_16x16RobotTileset.v1_49
+  - first:
+      213: -2692226024813221095
+    second: 0x72_16x16RobotTileset.v1_50
+  - first:
+      213: 1045625773015756147
+    second: 0x72_16x16RobotTileset.v1_51
+  - first:
+      213: -6166767965213368167
+    second: 0x72_16x16RobotTileset.v1_52
+  - first:
+      213: -4358187975740856316
+    second: 0x72_16x16RobotTileset.v1_53
+  - first:
+      213: 6543813501889276983
+    second: 0x72_16x16RobotTileset.v1_54
+  - first:
+      213: -7320804985463326772
+    second: 0x72_16x16RobotTileset.v1_55
+  - first:
+      213: 2681494690718872994
+    second: 0x72_16x16RobotTileset.v1_56
+  - first:
+      213: 4439014893881131582
+    second: 0x72_16x16RobotTileset.v1_57
+  - first:
+      213: -5055651763426572094
+    second: 0x72_16x16RobotTileset.v1_58
+  - first:
+      213: 8697580151842612733
+    second: 0x72_16x16RobotTileset.v1_59
+  - first:
+      213: 6752853215132284645
+    second: 0x72_16x16RobotTileset.v1_60
+  - first:
+      213: 1150772965661483242
+    second: 0x72_16x16RobotTileset.v1_61
+  - first:
+      213: 757831763391641955
+    second: 0x72_16x16RobotTileset.v1_62
+  - first:
+      213: -5759424402806392053
+    second: 0x72_16x16RobotTileset.v1_63
+  - first:
+      213: 8963588490029044622
+    second: 0x72_16x16RobotTileset.v1_64
+  - first:
+      213: 5550461986981576325
+    second: 0x72_16x16RobotTileset.v1_65
+  - first:
+      213: -5199573423868664336
+    second: 0x72_16x16RobotTileset.v1_66
+  - first:
+      213: 710806238932640048
+    second: 0x72_16x16RobotTileset.v1_67
+  - first:
+      213: -3295861096483374482
+    second: 0x72_16x16RobotTileset.v1_68
+  - first:
+      213: 8417996756439674690
+    second: 0x72_16x16RobotTileset.v1_69
+  - first:
+      213: 9159777374713161963
+    second: 0x72_16x16RobotTileset.v1_70
+  - first:
+      213: 3271632017593317838
+    second: 0x72_16x16RobotTileset.v1_71
+  - first:
+      213: -1781253324469058734
+    second: 0x72_16x16RobotTileset.v1_72
+  - first:
+      213: -543713763264791084
+    second: 0x72_16x16RobotTileset.v1_73
+  - first:
+      213: -2677094262093445911
+    second: 0x72_16x16RobotTileset.v1_74
+  - first:
+      213: 3401070368446663753
+    second: 0x72_16x16RobotTileset.v1_75
+  - first:
+      213: -5526411280205725539
+    second: 0x72_16x16RobotTileset.v1_76
+  - first:
+      213: -6243451659692851986
+    second: 0x72_16x16RobotTileset.v1_77
+  - first:
+      213: 5167478829358379129
+    second: 0x72_16x16RobotTileset.v1_78
+  - first:
+      213: -399952426127412712
+    second: 0x72_16x16RobotTileset.v1_79
+  - first:
+      213: 3405977535981276366
+    second: 0x72_16x16RobotTileset.v1_80
+  - first:
+      213: -8434047833104980516
+    second: 0x72_16x16RobotTileset.v1_81
+  - first:
+      213: 4103076837205743856
+    second: 0x72_16x16RobotTileset.v1_82
+  - first:
+      213: 165069459261698791
+    second: 0x72_16x16RobotTileset.v1_83
+  - first:
+      213: -2349281820508142979
+    second: 0x72_16x16RobotTileset.v1_84
+  - first:
+      213: -7078710363540577256
+    second: 0x72_16x16RobotTileset.v1_85
+  - first:
+      213: 1030623072755799602
+    second: 0x72_16x16RobotTileset.v1_86
+  - first:
+      213: -445440039375502230
+    second: 0x72_16x16RobotTileset.v1_87
+  - first:
+      213: 7850645283054979731
+    second: 0x72_16x16RobotTileset.v1_88
+  - first:
+      213: -1664719907017036020
+    second: 0x72_16x16RobotTileset.v1_89
+  - first:
+      213: -7278760531111520856
+    second: 0x72_16x16RobotTileset.v1_90
+  - first:
+      213: 6342727656117609574
+    second: 0x72_16x16RobotTileset.v1_91
+  - first:
+      213: 3302308249782954494
+    second: 0x72_16x16RobotTileset.v1_92
+  - first:
+      213: 8613909355071181093
+    second: 0x72_16x16RobotTileset.v1_93
+  - first:
+      213: 4225150801797727009
+    second: 0x72_16x16RobotTileset.v1_94
+  - first:
+      213: -5334047249818175436
+    second: 0x72_16x16RobotTileset.v1_95
+  - first:
+      213: 754695130305359964
+    second: 0x72_16x16RobotTileset.v1_96
+  - first:
+      213: -7535935778590720068
+    second: 0x72_16x16RobotTileset.v1_97
+  - first:
+      213: 3910688110720960454
+    second: 0x72_16x16RobotTileset.v1_98
+  - first:
+      213: 99056268520497908
+    second: 0x72_16x16RobotTileset.v1_99
+  - first:
+      213: -3758837520881081180
+    second: 0x72_16x16RobotTileset.v1_100
+  - first:
+      213: -645828518787667321
+    second: 0x72_16x16RobotTileset.v1_101
+  - first:
+      213: 6782299506508704145
+    second: 0x72_16x16RobotTileset.v1_102
+  - first:
+      213: -2675620084664821248
+    second: 0x72_16x16RobotTileset.v1_103
+  - first:
+      213: -7975983358393132206
+    second: 0x72_16x16RobotTileset.v1_104
+  - first:
+      213: 6477487894078080702
+    second: 0x72_16x16RobotTileset.v1_105
+  - first:
+      213: 6594843051900564280
+    second: 0x72_16x16RobotTileset.v1_106
+  - first:
+      213: 8598564350961256243
+    second: 0x72_16x16RobotTileset.v1_107
+  - first:
+      213: -778366418624622616
+    second: 0x72_16x16RobotTileset.v1_108
+  - first:
+      213: -8517289339294465099
+    second: 0x72_16x16RobotTileset.v1_109
+  - first:
+      213: -1312979958224692552
+    second: 0x72_16x16RobotTileset.v1_110
+  - first:
+      213: -9140495568644242205
+    second: 0x72_16x16RobotTileset.v1_111
+  - first:
+      213: -8875394474094108909
+    second: 0x72_16x16RobotTileset.v1_112
+  - first:
+      213: -831944621915329041
+    second: 0x72_16x16RobotTileset.v1_113
+  - first:
+      213: 8933267524320405834
+    second: 0x72_16x16RobotTileset.v1_114
+  - first:
+      213: -9195651670253896296
+    second: 0x72_16x16RobotTileset.v1_115
+  - first:
+      213: 6110503927769614474
+    second: 0x72_16x16RobotTileset.v1_116
+  - first:
+      213: 55204950440826545
+    second: 0x72_16x16RobotTileset.v1_117
+  - first:
+      213: 5850891581275360798
+    second: 0x72_16x16RobotTileset.v1_118
+  - first:
+      213: -4676762519103057756
+    second: 0x72_16x16RobotTileset.v1_119
+  - first:
+      213: 998591134466743110
+    second: 0x72_16x16RobotTileset.v1_120
+  - first:
+      213: 3686272025849243560
+    second: 0x72_16x16RobotTileset.v1_121
+  - first:
+      213: -4052757823238256543
+    second: 0x72_16x16RobotTileset.v1_122
+  - first:
+      213: 7415052843584256556
+    second: 0x72_16x16RobotTileset.v1_123
+  - first:
+      213: 1163363476648914610
+    second: 0x72_16x16RobotTileset.v1_124
+  - first:
+      213: 5809628802547800445
+    second: 0x72_16x16RobotTileset.v1_125
+  - first:
+      213: -3858998599782304012
+    second: 0x72_16x16RobotTileset.v1_126
+  - first:
+      213: 713382447468798449
+    second: 0x72_16x16RobotTileset.v1_127
+  - first:
+      213: -3181896845391305235
+    second: 0x72_16x16RobotTileset.v1_128
+  - first:
+      213: 7068258595179835370
+    second: 0x72_16x16RobotTileset.v1_129
+  - first:
+      213: 5498991258499149158
+    second: 0x72_16x16RobotTileset.v1_130
+  - first:
+      213: -1500380227598816291
+    second: 0x72_16x16RobotTileset.v1_131
+  - first:
+      213: -7270335539392368322
+    second: 0x72_16x16RobotTileset.v1_132
+  - first:
+      213: -7718243844807629171
+    second: 0x72_16x16RobotTileset.v1_133
+  - first:
+      213: -301310348821900391
+    second: 0x72_16x16RobotTileset.v1_134
+  - first:
+      213: 9025268524883445598
+    second: 0x72_16x16RobotTileset.v1_135
+  - first:
+      213: 6013880814057829389
+    second: 0x72_16x16RobotTileset.v1_136
+  - first:
+      213: 7733450399249817374
+    second: 0x72_16x16RobotTileset.v1_137
+  - first:
+      213: 5546899689707147486
+    second: 0x72_16x16RobotTileset.v1_138
+  - first:
+      213: 5358626789023643739
+    second: 0x72_16x16RobotTileset.v1_139
+  - first:
+      213: -3745954788161179803
+    second: 0x72_16x16RobotTileset.v1_140
+  - first:
+      213: 7658898703027498972
+    second: 0x72_16x16RobotTileset.v1_141
+  - first:
+      213: -3762561012149919169
+    second: 0x72_16x16RobotTileset.v1_142
+  - first:
+      213: -2203013330579826555
+    second: 0x72_16x16RobotTileset.v1_143
+  - first:
+      213: 8446358512594249448
+    second: 0x72_16x16RobotTileset.v1_144
+  - first:
+      213: -8130012649142682359
+    second: 0x72_16x16RobotTileset.v1_145
+  - first:
+      213: -7102403274260377560
+    second: 0x72_16x16RobotTileset.v1_146
+  - first:
+      213: -8010040578609308305
+    second: 0x72_16x16RobotTileset.v1_147
+  - first:
+      213: -6778537856522509572
+    second: 0x72_16x16RobotTileset.v1_148
+  - first:
+      213: -4811871090761659518
+    second: 0x72_16x16RobotTileset.v1_149
+  - first:
+      213: 3627241934044302611
+    second: 0x72_16x16RobotTileset.v1_150
+  - first:
+      213: 8554069813205015597
+    second: 0x72_16x16RobotTileset.v1_151
+  - first:
+      213: 595065444072856604
+    second: 0x72_16x16RobotTileset.v1_152
+  - first:
+      213: 6128709965651727301
+    second: 0x72_16x16RobotTileset.v1_153
+  - first:
+      213: -5552510630777183055
+    second: 0x72_16x16RobotTileset.v1_154
+  - first:
+      213: 3571911812355843090
+    second: 0x72_16x16RobotTileset.v1_155
+  - first:
+      213: 8689235972248220198
+    second: 0x72_16x16RobotTileset.v1_156
+  - first:
+      213: 8014255198490790721
+    second: 0x72_16x16RobotTileset.v1_157
+  - first:
+      213: 3054205623959408492
+    second: 0x72_16x16RobotTileset.v1_158
+  - first:
+      213: 916349247406081820
+    second: 0x72_16x16RobotTileset.v1_159
+  - first:
+      213: -974082550326229823
+    second: 0x72_16x16RobotTileset.v1_160
+  - first:
+      213: -874705404341236994
+    second: 0x72_16x16RobotTileset.v1_161
+  - first:
+      213: -4940261192555731913
+    second: 0x72_16x16RobotTileset.v1_162
+  - first:
+      213: -4930142066293437992
+    second: 0x72_16x16RobotTileset.v1_163
+  - first:
+      213: 2628091328769726783
+    second: 0x72_16x16RobotTileset.v1_164
+  - first:
+      213: 3962808036750647128
+    second: 0x72_16x16RobotTileset.v1_165
+  - first:
+      213: -7143906776375558696
+    second: 0x72_16x16RobotTileset.v1_166
+  - first:
+      213: 1166299835273851313
+    second: 0x72_16x16RobotTileset.v1_167
+  - first:
+      213: 6598986434843965873
+    second: 0x72_16x16RobotTileset.v1_168
+  - first:
+      213: -2825816596442581688
+    second: 0x72_16x16RobotTileset.v1_169
+  - first:
+      213: 4639129151456567892
+    second: 0x72_16x16RobotTileset.v1_170
+  - first:
+      213: 3358259141567256822
+    second: 0x72_16x16RobotTileset.v1_171
+  - first:
+      213: -4811155005708069259
+    second: 0x72_16x16RobotTileset.v1_172
+  - first:
+      213: 509894445805135753
+    second: 0x72_16x16RobotTileset.v1_173
+  - first:
+      213: 4700831680059978073
+    second: 0x72_16x16RobotTileset.v1_174
+  - first:
+      213: 334599552816894610
+    second: 0x72_16x16RobotTileset.v1_175
+  - first:
+      213: -2186947735083681560
+    second: 0x72_16x16RobotTileset.v1_176
+  - first:
+      213: -1242863913009191194
+    second: 0x72_16x16RobotTileset.v1_177
+  - first:
+      213: 984079843218423745
+    second: 0x72_16x16RobotTileset.v1_178
+  - first:
+      213: 8792584152986861989
+    second: 0x72_16x16RobotTileset.v1_179
+  - first:
+      213: -341087933386453678
+    second: 0x72_16x16RobotTileset.v1_180
+  - first:
+      213: 3825198096725096185
+    second: 0x72_16x16RobotTileset.v1_181
+  - first:
+      213: 1477450573694631465
+    second: 0x72_16x16RobotTileset.v1_182
+  - first:
+      213: -2347125038660887338
+    second: 0x72_16x16RobotTileset.v1_183
+  - first:
+      213: 125620125962932279
+    second: 0x72_16x16RobotTileset.v1_184
+  - first:
+      213: 5243583481213205561
+    second: 0x72_16x16RobotTileset.v1_185
+  - first:
+      213: 7892614059576057598
+    second: 0x72_16x16RobotTileset.v1_186
+  - first:
+      213: -6678259863220026634
+    second: 0x72_16x16RobotTileset.v1_187
+  - first:
+      213: -4044464367009452715
+    second: 0x72_16x16RobotTileset.v1_188
+  - first:
+      213: -4835754753007291354
+    second: 0x72_16x16RobotTileset.v1_189
+  - first:
+      213: -2829232453114394652
+    second: 0x72_16x16RobotTileset.v1_190
+  - first:
+      213: 6946550565022605695
+    second: 0x72_16x16RobotTileset.v1_191
+  - first:
+      213: -7295284114117507261
+    second: 0x72_16x16RobotTileset.v1_192
+  - first:
+      213: -4164287590732140723
+    second: 0x72_16x16RobotTileset.v1_193
+  - first:
+      213: -6954092300868344293
+    second: 0x72_16x16RobotTileset.v1_194
+  - first:
+      213: 8552140572689518280
+    second: 0x72_16x16RobotTileset.v1_195
+  - first:
+      213: -2837427350668800832
+    second: 0x72_16x16RobotTileset.v1_196
+  - first:
+      213: 6526149415848164197
+    second: 0x72_16x16RobotTileset.v1_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1afda8cfa675070800000000000000
+      internalID: 8095056488115970511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 496
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d19b3da96dbbb70800000000000000
+      internalID: 8915955847775460751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855363c01adfbfc0800000000000000
+      internalID: -3476820621774334584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122c846ced3cfd30800000000000000
+      internalID: 4466513015953170974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 480
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a1c0cbd4ca8a10800000000000000
+      internalID: 1912557439882995237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54197ad3c4ea3e9f0800000000000000
+      internalID: -440316696077037243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b9afc810fac020800000000000000
+      internalID: 2362964943863132543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abbaaed943a07c60800000000000000
+      internalID: 7813924891151481765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66f681be24c5530800000000000000
+      internalID: 3845021759362262704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c88fa43feb0ac4c0800000000000000
+      internalID: -4266584574971115326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083d9d6cd6e4f5f0800000000000000
+      internalID: -723699805693593597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881cdba4ac2fb700800000000000000
+      internalID: 558213964586817668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7ce6035662f740800000000000000
+      internalID: 5184318627841342228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5100f58d937fc20800000000000000
+      internalID: 3240122058385921486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 464
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8db9016e9552f10800000000000000
+      internalID: 2244298833970059471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 464
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf11a3a70fa619c0800000000000000
+      internalID: -3956782775253524529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 448
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f87f2012488fc0800000000000000
+      internalID: -3492468873742453785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a03e3cc15501fc0800000000000000
+      internalID: -3526224926197216684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae110b394303f2e0800000000000000
+      internalID: -2093325788739723610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ddcdd4dbd42030800000000000000
+      internalID: 3469139320282928943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 432
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169527275e77d400800000000000000
+      internalID: 348886408928531991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 400
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004770852e24fec20800000000000000
+      internalID: 3237880197009601536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 400
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b423cc32349c400800000000000000
+      internalID: 344880667499318148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed977f2b70ec1ecb0800000000000000
+      internalID: -4836357992356546082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 400
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f988cfcd5d730f0800000000000000
+      internalID: -1137205235781427299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 400
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9d03e8e6cc9f80800000000000000
+      internalID: -8098379326374962571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97577031c18e843b0800000000000000
+      internalID: -5527913335321299591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445302fab5ca764b0800000000000000
+      internalID: -5447195714501200572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 400
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1229aa887f129420800000000000000
+      internalID: 2635203334548038174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 400
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57efd7e48c2373850800000000000000
+      internalID: 6356605234948472437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf3555b8e1c4410800000000000000
+      internalID: 1462577562769423801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775a14c5d67fa520800000000000000
+      internalID: 2715519760817870705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 400
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37a633a0556fd80800000000000000
+      internalID: -8217286967790242829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 368
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed923a824ceedc270800000000000000
+      internalID: 8272530616812251614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 368
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbedc5b7e991a600800000000000000
+      internalID: 477832255944649657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 368
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98973aab0a678d6a0800000000000000
+      internalID: -6424254435745891959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 368
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb5572ad972d340800000000000000
+      internalID: 4887102523520171749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 368
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de94362a3df79710800000000000000
+      internalID: 1700105810546564819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 368
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da997d0cae81e88e0800000000000000
+      internalID: -1689385413680588371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64282b928c2a69de0800000000000000
+      internalID: -1326694059637308858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 368
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e687460fbd43d0800000000000000
+      internalID: -3220708124809304996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078355885b1386a0800000000000000
+      internalID: -6448280174456502528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d54237c61f6950f0800000000000000
+      internalID: -1127748088057674286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 347
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed77104051850c0800000000000000
+      internalID: -4586893113528164803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 345
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490d24aab590f2f0800000000000000
+      internalID: -941087693269563059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 320
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f3ef9e02bfd1d0800000000000000
+      internalID: -3323742224094333772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098cc2e60d6d1fb0800000000000000
+      internalID: -4675460961798420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767db47a9c21d1d70800000000000000
+      internalID: 9015382686370092903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae612e6cb384786f0800000000000000
+      internalID: -682497396946364694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 336
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b591ee77f101170800000000000000
+      internalID: 8147046325869435655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b22f7c1ba43aad0800000000000000
+      internalID: -2692226024813221095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de890c91fc28e00800000000000000
+      internalID: 1045625773015756147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e235653d3b6aa0800000000000000
+      internalID: -6166767965213368167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086691702b9483c0800000000000000
+      internalID: -4358187975740856316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 336
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce38895bb40da50800000000000000
+      internalID: 6543813501889276983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7bc8b27a6476a90800000000000000
+      internalID: -7320804985463326772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_56
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f46bc635963520800000000000000
+      internalID: 2681494690718872994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32047ee68c8a9d30800000000000000
+      internalID: 4439014893881131582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 336
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c1e4d187b6d9b0800000000000000
+      internalID: -5055651763426572094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5211cf01304b870800000000000000
+      internalID: 8697580151842612733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e670549834f6bd50800000000000000
+      internalID: 6752853215132284645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0206b4aed58ff00800000000000000
+      internalID: 1150772965661483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 328
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369777049fb548a00800000000000000
+      internalID: 757831763391641955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3208350a6210b0800000000000000
+      internalID: -5759424402806392053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8316f49d30156c70800000000000000
+      internalID: 8963588490029044622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e785105c3370d40800000000000000
+      internalID: 5550461986981576325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 288
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f52fbef48767d7b0800000000000000
+      internalID: -5199573423868664336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03126bf128a4dd900800000000000000
+      internalID: 710806238932640048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a34138bcfb242d0800000000000000
+      internalID: -3295861096483374482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2af3137bb2d470800000000000000
+      internalID: 8417996756439674690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82071edf01e1f70800000000000000
+      internalID: 9159777374713161963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b1747cfb276d20800000000000000
+      internalID: 3271632017593317838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253c904f987b747e0800000000000000
+      internalID: -1781253324469058734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7c1986375478f0800000000000000
+      internalID: -543713763264791084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 304
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40fa5d3fc09dad0800000000000000
+      internalID: -2677094262093445911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cce5ffa77033f20800000000000000
+      internalID: 3401070368446663753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9040a8883e3e43b0800000000000000
+      internalID: -5526411280205725539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3fa37bcdca59a0800000000000000
+      internalID: -6243451659692851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 304
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970f148ed9296b740800000000000000
+      internalID: 5167478829358379129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812be913365137af0800000000000000
+      internalID: -399952426127412712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccf19f586744f20800000000000000
+      internalID: 3405977535981276366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ef196e2e34fa80800000000000000
+      internalID: -8434047833104980516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f818c7f4ae01f830800000000000000
+      internalID: 4103076837205743856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23f827cc17a4200800000000000000
+      internalID: 165069459261698791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72445b91aca56fd0800000000000000
+      internalID: -2349281820508142979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a941dd6e53cd90800000000000000
+      internalID: -7078710363540577256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 272
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365ee469328d4e00800000000000000
+      internalID: 1030623072755799602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 272
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64894ce4aa71d9f0800000000000000
+      internalID: -445440039375502230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a861a5a4813fc60800000000000000
+      internalID: 7850645283054979731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 272
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6abb801ab5e8e0800000000000000
+      internalID: -1664719907017036020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 272
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d6f98cd5acfa90800000000000000
+      internalID: -7278760531111520856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 272
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664afe1b235e50850800000000000000
+      internalID: 6342727656117609574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a7275bd724dd20800000000000000
+      internalID: 3302308249782954494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 272
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219e648be0ca8770800000000000000
+      internalID: 8613909355071181093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 272
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234c97b440c2aa30800000000000000
+      internalID: 4225150801797727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 272
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438307b8948a9f5b0800000000000000
+      internalID: -5334047249818175436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507193f837397a00800000000000000
+      internalID: 754695130305359964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 240
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf71f2265afa6790800000000000000
+      internalID: -7535935778590720068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7cdd2fd1e854630800000000000000
+      internalID: 3910688110720960454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 240
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a0f1c62bef5100800000000000000
+      internalID: 99056268520497908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4297f903de5dbc0800000000000000
+      internalID: -3758837520881081180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_101
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a28d7426e8907f0800000000000000
+      internalID: -645828518787667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19922cd87719f1e50800000000000000
+      internalID: 6782299506508704145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a17a385b94edad0800000000000000
+      internalID: -2675620084664821248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_104
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bdc84e46d9f4190800000000000000
+      internalID: -7975983358393132206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ca63abe8a4e950800000000000000
+      internalID: 6477487894078080702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8337cf190d6958b50800000000000000
+      internalID: 6594843051900564280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 240
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337026558bc345770800000000000000
+      internalID: 8598564350961256243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef49c0cddfa235f0800000000000000
+      internalID: -778366418624622616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c122f8728cc980800000000000000
+      internalID: -8517289339294465099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_110
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5fc83fab57cde0800000000000000
+      internalID: -1312979958224692552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48def65bf662180800000000000000
+      internalID: -9140495568644242205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd72aefb344d480800000000000000
+      internalID: -8875394474094108909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda0f136c65474f0800000000000000
+      internalID: -831944621915329041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_114
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49a6ae9b7759fb70800000000000000
+      internalID: 8933267524320405834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_115
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df94cc68b726080800000000000000
+      internalID: -9195651670253896296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_116
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88465d82fedcc450800000000000000
+      internalID: 6110503927769614474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65ed42c9024c000800000000000000
+      internalID: 55204950440826545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_118
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecd31d4ea823150800000000000000
+      internalID: 5850891581275360798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1_119
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05006744dc81fb0800000000000000
+      internalID: -4676762519103057756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
