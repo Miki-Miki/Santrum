@@ -1,2 +1,2 @@
 # Santrum
- Game I made for internet points
+ Game I made for college points
