@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+[RequireComponent(typeof(Dash))]
+
 public class PlayerMovement : MonoBehaviour
 {
     public float movementSpeed = 4.0f;
@@ -14,20 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isJumping;
     private float jumpTimeCounter;
 
-    [Header("Dash")]
-    public float dashSpeed = 50.0f;
-    public float dashDuration = 0.2f;
-    public float timeBeforeNextDash;
-    private float dashTimeBeforeNext;
-    private float dashStartTime;
-
-    // ---------------------
-    [HideInInspector]
-    public bool hasDashed;
-
     [HideInInspector]
     public bool hasDash;
-    // ---------------------
 
     private bool isDashing;
 
@@ -42,17 +32,10 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb2d;
     string facingDirection = "";
 
-    [Header("Animation")]
-    public Animator dashMeterAnimator = null;
     private Animator anim;
-
-    // ---------------------
-    [HideInInspector]
-    public bool isDashMeterFull;
 
     [HideInInspector]
     public bool dashFull;
-    // ---------------------
 
     [Header("Timer")]
     [Range(0.01f, 1.0f)] public float startingOffset;
@@ -67,6 +50,8 @@ public class PlayerMovement : MonoBehaviour
     private ResetLevel resetLevel;
     
     private GameObject gameOverScreen;
+
+    private Dash dash;
 
     void Start()
     {
@@ -99,6 +84,8 @@ public class PlayerMovement : MonoBehaviour
             gameOverScreen = GameObject.FindGameObjectWithTag("GameOverScreen");
             gameOverScreen.SetActive(false);
         }
+
+        dash = gameObject.GetComponent<Dash>();
         
     }
 
@@ -154,40 +141,14 @@ public class PlayerMovement : MonoBehaviour
             isJumping = false;
         }
 
-
-        //    Dash
         // -----------
         if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.DownArrow))
         {
             GetFacingDirection();
         }
 
-        if(dashStartTime <= 0) 
-        {   
-            facingDirection = "";
-            rb2d.velocity = Vector2.zero;
-            dashStartTime = dashDuration;
-        }
-        else if (Input.GetButtonDown("Dash") && dashTimeBeforeNext == 0) {
-            hasDash = true;
-            //hasDashed = true;
-            isDashing = true;
-            dashTimeBeforeNext = timeBeforeNextDash;
-            StartCoroutine(StopDash(dashStartTime));
-            Dash(dashSpeed, facingDirection);
-            StartCoroutine(DisableDashFor(dashTimeBeforeNext));
-            
-        }
 
-        // Dash meter 
-        if(dashTimeBeforeNext == 0) {
-            dashFull = true;
-            //isDashMeterFull = true;
-        } else {
-            dashFull = false;
-            //isDashMeterFull = false;
-        }
-
+        isDashing = dash.isDashing;
         //   Animation
         // -------------
         // Player
@@ -195,11 +156,6 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("IsJumping", !isGrounded);
         anim.SetBool("IsDashing", isDashing);
 
-        // dashMeterAnimator.SetBool("hasDashed", hasDashed);
-        // dashMeterAnimator.SetFloat("RechargeTime", 1/timeBeforeNextDash);
-        // dashMeterAnimator.SetBool("IsDashMeterFull", isDashMeterFull);
-
-        //Debug.Log("IsPlayerDead: " + deadlyObjects.isPlayerDead);
         // Check if player dead
         if(deadlyObjects != null && deadlyObjects.isPlayerDead) {
             RespawnPlayer();
@@ -220,26 +176,6 @@ public class PlayerMovement : MonoBehaviour
         if(timeMaster != null && timeMaster.isTimeOver()) {
             StartCoroutine(GameOver());
         }
-
-    }
-
-    // Time before velocity reset
-    IEnumerator StopDash(float time) {
-        yield return new WaitForSeconds(time);
-        dashStartTime = 0;
-        isDashing = false;
-    }
-
-    // Time before next dash
-    IEnumerator DisableDashFor(float time) {
-        yield return new WaitForSeconds(time);
-        dashTimeBeforeNext = 0;
-        //hasDashed = false;
-        hasDash = false;
-    }
-
-    private void ResetDash() {
-        dashTimeBeforeNext -= timeBeforeNextDash;
     }
 
     // Loads first scene 
@@ -266,22 +202,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         return facingDirection;
-    }
-
-    private void Dash(float playerDashSpeed, string playerDirection)
-    {
-        if (playerDirection == "RIGHT")
-        {
-            rb2d.velocity = Vector2.right * playerDashSpeed;
-        }
-        else if (playerDirection == "LEFT")
-        {
-            rb2d.velocity = Vector2.left * playerDashSpeed;
-        }
-        else if (playerDirection == "DOWN")
-        {
-            rb2d.velocity = Vector2.down * playerDashSpeed;
-        }
     }
 
     public void RespawnPlayer() {

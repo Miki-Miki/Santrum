@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\Game\VolumeMaster.cs" />
      <Compile Include="Assets\Scripts\Game\YouWon.cs" />
      <Compile Include="Assets\Scripts\Levels\TutorialMaster.cs" />
+     <Compile Include="Assets\Scripts\Player\Dash.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerKiller.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
  <Reference Include="UnityEngine">

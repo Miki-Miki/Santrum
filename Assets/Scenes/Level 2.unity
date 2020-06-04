@@ -2533,6 +2533,29 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 26de5edecd05b92419d6b9e9e3cc6cd6, type: 3}
+--- !u!1 &1202660519 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5047991762222826308, guid: 26de5edecd05b92419d6b9e9e3cc6cd6, type: 3}
+  m_PrefabInstance: {fileID: 1202660518}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1202660520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1202660519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242ca18332f85c54c86c304cd754e7e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dashSpeed: 35
+  dashDuration: 0.11
+  timeBeforeNextDash: 3
+  hasDash: 0
+  dashFull: 0
+  isDashing: 0
 --- !u!224 &1227829191 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2955486807130244453, guid: db7c5e44d5ac3584ab03286933739cfa, type: 3}

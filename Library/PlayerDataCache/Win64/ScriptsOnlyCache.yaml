@@ -7,6 +7,7 @@ ScriptsOnlyBuild:
     - CameraControler
     - Checkpoint
     - CheckpointMaster
+    - Dash
     - DashMeter
     - DontDestroy
     - KillPlayer
@@ -178,6 +179,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 24868}
     - Class: 114
       Script: {instanceID: 35358}
+    - Class: 114
+      Script: {instanceID: 53894}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -287,6 +290,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 24868}
     - Class: 114
       Script: {instanceID: 35358}
+    - Class: 114
+      Script: {instanceID: 53894}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -442,6 +447,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16966}
     - Class: 114
       Script: {instanceID: 16974}
+    - Class: 114
+      Script: {instanceID: 53894}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -537,6 +544,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 24868}
     - Class: 114
       Script: {instanceID: 35358}
+    - Class: 114
+      Script: {instanceID: 53894}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1014,7 +1023,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: ff1918fe9cad12896b875ae4321d4164
+      Hash: 951ed5b7bb12e791401cc27fcf3f5874
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerMovement
@@ -1570,6 +1579,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: DashMeter
+  - hash:
+      serializedVersion: 2
+      Hash: b71ae78b99fea6e9a76e6b720ec52823
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Dash
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
