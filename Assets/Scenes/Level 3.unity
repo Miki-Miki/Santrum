@@ -576,6 +576,7 @@ Transform:
   - {fileID: 1227829191}
   - {fileID: 202788614}
   - {fileID: 1351622311}
+  - {fileID: 1114495509}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2262,7 +2263,6 @@ GameObject:
   - component: {fileID: 513735868}
   - component: {fileID: 513735872}
   - component: {fileID: 513735871}
-  - component: {fileID: 513735866}
   - component: {fileID: 513735873}
   - component: {fileID: 513735869}
   - component: {fileID: 513735870}
@@ -2273,6 +2273,7 @@ GameObject:
   - component: {fileID: 513735879}
   - component: {fileID: 513735878}
   - component: {fileID: 513735880}
+  - component: {fileID: 513735866}
   m_Layer: 0
   m_Name: DeadlyObjects
   m_TagString: DeathBed
@@ -2289,10 +2290,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 513735865}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c352aa9bd4c10f849883aeb1c95406b8, type: 3}
+  m_Script: {fileID: 11500000, guid: fddb052b7b9da8045acf045ca2d0db86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPlayerDead: 0
 --- !u!4 &513735867
 Transform:
   m_ObjectHideFlags: 0
@@ -2580,7 +2580,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 956488297e447ed4fbd2e3871b841b68, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -5048,10 +5048,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1097320199}
   m_CullTransparentMesh: 0
---- !u!95 &1125990935 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 2623271736949494105, guid: ea7589836a71f7f4e8f84b3970a73553, type: 3}
-  m_PrefabInstance: {fileID: 2015541023}
+--- !u!1001 &1114495508
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 230233767}
+    m_Modifications:
+    - target: {fileID: 2446535430509353765, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_Name
+      value: DashMeter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.502687
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.66312
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.99293
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+--- !u!4 &1114495509 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5225365926863553055, guid: 3c57372ceaff1b147984557aa591b86f, type: 3}
+  m_PrefabInstance: {fileID: 1114495508}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1202360897
 GameObject:
@@ -5097,7 +5154,7 @@ PrefabInstance:
     - target: {fileID: 5047991762222826309, guid: 26de5edecd05b92419d6b9e9e3cc6cd6, type: 3}
       propertyPath: dashMeterAnimator
       value: 
-      objectReference: {fileID: 1125990935}
+      objectReference: {fileID: 0}
     - target: {fileID: 5047991762222826360, guid: 26de5edecd05b92419d6b9e9e3cc6cd6, type: 3}
       propertyPath: m_SortingOrder
       value: 5

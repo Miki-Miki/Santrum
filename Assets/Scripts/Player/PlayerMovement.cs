@@ -20,7 +20,15 @@ public class PlayerMovement : MonoBehaviour
     public float timeBeforeNextDash;
     private float dashTimeBeforeNext;
     private float dashStartTime;
-    private bool hasDashed;
+
+    // ---------------------
+    [HideInInspector]
+    public bool hasDashed;
+
+    [HideInInspector]
+    public bool hasDash;
+    // ---------------------
+
     private bool isDashing;
 
     [HideInInspector]
@@ -37,7 +45,14 @@ public class PlayerMovement : MonoBehaviour
     [Header("Animation")]
     public Animator dashMeterAnimator = null;
     private Animator anim;
-    private bool isDashMeterFull;
+
+    // ---------------------
+    [HideInInspector]
+    public bool isDashMeterFull;
+
+    [HideInInspector]
+    public bool dashFull;
+    // ---------------------
 
     [Header("Timer")]
     [Range(0.01f, 1.0f)] public float startingOffset;
@@ -154,7 +169,8 @@ public class PlayerMovement : MonoBehaviour
             dashStartTime = dashDuration;
         }
         else if (Input.GetButtonDown("Dash") && dashTimeBeforeNext == 0) {
-            hasDashed = true;
+            hasDash = true;
+            //hasDashed = true;
             isDashing = true;
             dashTimeBeforeNext = timeBeforeNextDash;
             StartCoroutine(StopDash(dashStartTime));
@@ -165,17 +181,13 @@ public class PlayerMovement : MonoBehaviour
 
         // Dash meter 
         if(dashTimeBeforeNext == 0) {
-            isDashMeterFull = true;
+            dashFull = true;
+            //isDashMeterFull = true;
         } else {
-            isDashMeterFull = false;
+            dashFull = false;
+            //isDashMeterFull = false;
         }
 
-        // if(resetLevel.isLevelReset == true) {
-        //     ResetDash();
-        //     resetLevel.isLevelReset = false;
-        // }
-
-        
         //   Animation
         // -------------
         // Player
@@ -183,9 +195,9 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("IsJumping", !isGrounded);
         anim.SetBool("IsDashing", isDashing);
 
-        dashMeterAnimator.SetBool("hasDashed", hasDashed);
-        dashMeterAnimator.SetFloat("RechargeTime", 1/timeBeforeNextDash);
-        dashMeterAnimator.SetBool("IsDashMeterFull", isDashMeterFull);
+        // dashMeterAnimator.SetBool("hasDashed", hasDashed);
+        // dashMeterAnimator.SetFloat("RechargeTime", 1/timeBeforeNextDash);
+        // dashMeterAnimator.SetBool("IsDashMeterFull", isDashMeterFull);
 
         //Debug.Log("IsPlayerDead: " + deadlyObjects.isPlayerDead);
         // Check if player dead
@@ -222,7 +234,8 @@ public class PlayerMovement : MonoBehaviour
     IEnumerator DisableDashFor(float time) {
         yield return new WaitForSeconds(time);
         dashTimeBeforeNext = 0;
-        hasDashed = false;
+        //hasDashed = false;
+        hasDash = false;
     }
 
     private void ResetDash() {

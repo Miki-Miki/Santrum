@@ -7,11 +7,13 @@ ScriptsOnlyBuild:
     - CameraControler
     - Checkpoint
     - CheckpointMaster
+    - DashMeter
     - DontDestroy
     - KillPlayer
     - LoadNextLevel
     - MainMenu
     - OptionsMenu
+    - PlayerKiller
     - PlayerMovement
     - ProjectileNo1
     - ResetLevel
@@ -68,8 +70,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -170,6 +174,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16778}
     - Class: 114
       Script: {instanceID: 16876}
+    - Class: 114
+      Script: {instanceID: 24868}
+    - Class: 114
+      Script: {instanceID: 35358}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -275,6 +283,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16778}
     - Class: 114
       Script: {instanceID: 16876}
+    - Class: 114
+      Script: {instanceID: 24868}
+    - Class: 114
+      Script: {instanceID: 35358}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -510,8 +522,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15324}
     - Class: 114
-      Script: {instanceID: 15530}
-    - Class: 114
       Script: {instanceID: 15656}
     - Class: 114
       Script: {instanceID: 15770}
@@ -523,6 +533,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16778}
     - Class: 114
       Script: {instanceID: 16876}
+    - Class: 114
+      Script: {instanceID: 24868}
+    - Class: 114
+      Script: {instanceID: 35358}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1000,7 +1014,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: fc1a47fe20e8290349f2db65ed95e507
+      Hash: ff1918fe9cad12896b875ae4321d4164
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerMovement
@@ -1544,10 +1558,22 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerKiller
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DashMeter
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Tutorial and Level 1.unity
   - Assets/Scenes/Level 2.unity
   - Assets/Scenes/Level 3.unity
-  playerPath: C:/Users/Bios Servis/Desktop/College/KGR/KGR Seminarski/Santrum1.0/Santrum.exe
+  playerPath: C:/Users/Bios Servis/Desktop/College/KGR/KGR Seminarski/Santrum1.5/Santrum.exe

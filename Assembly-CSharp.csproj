@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\Game\Bosses\ProjectileNo1.cs" />
      <Compile Include="Assets\Scripts\Game\Checkpoint.cs" />
      <Compile Include="Assets\Scripts\Game\CheckpointMaster.cs" />
+     <Compile Include="Assets\Scripts\Game\DashMeter.cs" />
      <Compile Include="Assets\Scripts\Game\DontDestroy.cs" />
      <Compile Include="Assets\Scripts\Game\KillPlayer.cs" />
      <Compile Include="Assets\Scripts\Game\LoadNextLevel.cs" />
@@ -64,6 +65,7 @@
      <Compile Include="Assets\Scripts\Game\VolumeMaster.cs" />
      <Compile Include="Assets\Scripts\Game\YouWon.cs" />
      <Compile Include="Assets\Scripts\Levels\TutorialMaster.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerKiller.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0b5/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
